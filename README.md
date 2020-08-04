@@ -33,3 +33,7 @@
 ### Day 1
 
 - [Video](https://duke.zoom.us/rec/share/vZJnK-rv_19OWpHd-nzfS5Y5Q561aaa81iYd-PYPxUYmoy2mRGBhn504gLQVBweL) 
+
+### Day 2
+
+- [Video](https://duke.zoom.us/rec/share/w8VnKrjC00BLQYnTtm3tYoQwGpWiT6a8gyEb__ANmB7Avso0El73ansNeeq3Ku5c)
