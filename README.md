@@ -37,3 +37,11 @@
 ### Day 2
 
 - [Video](https://duke.zoom.us/rec/share/w8VnKrjC00BLQYnTtm3tYoQwGpWiT6a8gyEb__ANmB7Avso0El73ansNeeq3Ku5c)
+
+### Day 3
+
+- [Video](https://duke.zoom.us/rec/share/ws4sJJe30FlIbKv9zn-AW4AOBYPLX6a80SMW-KZen3z0WDnH23xPBcn9NYZPGLg)
+
+### Day 4
+
+- [Video](https://duke.zoom.us/rec/share/7PNNPZfM9WVOb7fTwxvSdaAsEY78aaa80CcarKAJyR4ltwpXgbMBWq7h7Y5YiNtG)
