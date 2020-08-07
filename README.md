@@ -45,3 +45,7 @@
 ### Day 4
 
 - [Video](https://duke.zoom.us/rec/share/7PNNPZfM9WVOb7fTwxvSdaAsEY78aaa80CcarKAJyR4ltwpXgbMBWq7h7Y5YiNtG)
+
+### Day 5
+
+- [Video](https://duke.zoom.us/rec/share/28Mqc5Dt5llIco2Q2EjEY4UwHNnuX6a8h3NL-PUKzRvP2ZImgREhmOammR8rS4x3)
