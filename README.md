@@ -1,4 +1,4 @@
-# DSS_Bootcamp2020
+# DSS_Bootcamp2021
 
 ## Lectures
 
@@ -28,24 +28,24 @@
 
 - [Video](https://www.dropbox.com/s/4r65o88r19v05yq/Session%20VIII%2C%20Bayesian%20inference.mp4?dl=0)
 
-## Q & A 
+## Live Session Q & A 
 
 ### Day 1
 
-- [Video](https://duke.zoom.us/rec/share/vZJnK-rv_19OWpHd-nzfS5Y5Q561aaa81iYd-PYPxUYmoy2mRGBhn504gLQVBweL) 
+<!-- - [Video](https://duke.zoom.us/rec/share/vZJnK-rv_19OWpHd-nzfS5Y5Q561aaa81iYd-PYPxUYmoy2mRGBhn504gLQVBweL) -->
 
 ### Day 2
 
-- [Video](https://duke.zoom.us/rec/share/w8VnKrjC00BLQYnTtm3tYoQwGpWiT6a8gyEb__ANmB7Avso0El73ansNeeq3Ku5c)
+<!-- - [Video](https://duke.zoom.us/rec/share/w8VnKrjC00BLQYnTtm3tYoQwGpWiT6a8gyEb__ANmB7Avso0El73ansNeeq3Ku5c) -->
 
 ### Day 3
 
-- [Video](https://duke.zoom.us/rec/share/ws4sJJe30FlIbKv9zn-AW4AOBYPLX6a80SMW-KZen3z0WDnH23xPBcn9NYZPGLg)
+<!-- - [Video](https://duke.zoom.us/rec/share/ws4sJJe30FlIbKv9zn-AW4AOBYPLX6a80SMW-KZen3z0WDnH23xPBcn9NYZPGLg) -->
 
 ### Day 4
 
-- [Video](https://duke.zoom.us/rec/share/7PNNPZfM9WVOb7fTwxvSdaAsEY78aaa80CcarKAJyR4ltwpXgbMBWq7h7Y5YiNtG)
+<!-- - [Video](https://duke.zoom.us/rec/share/7PNNPZfM9WVOb7fTwxvSdaAsEY78aaa80CcarKAJyR4ltwpXgbMBWq7h7Y5YiNtG) -->
 
 ### Day 5
 
-- [Video](https://duke.zoom.us/rec/share/28Mqc5Dt5llIco2Q2EjEY4UwHNnuX6a8h3NL-PUKzRvP2ZImgREhmOammR8rS4x3)
+<!-- - [Video](https://duke.zoom.us/rec/share/28Mqc5Dt5llIco2Q2EjEY4UwHNnuX6a8h3NL-PUKzRvP2ZImgREhmOammR8rS4x3) -->
